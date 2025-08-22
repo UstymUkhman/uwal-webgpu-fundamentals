@@ -19,6 +19,8 @@ bun run build   # Build for production
 bun run preview # Preview production build
 ```
 
+<br>
+
 | Lesson | Live | Source |
 |:- |:- |:- |
 | _Basics_ |

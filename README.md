@@ -18,3 +18,8 @@ bun run dev     # Run in development mode
 bun run build   # Build for production
 bun run preview # Preview production build
 ```
+
+| Lesson | Live | Source |
+|:- |:- |:- |
+| _Basics_ |
+| [Fundamentals](https://webgpufundamentals.org/webgpu/lessons/webgpu-fundamentals.html) | [Preview](https://ustymukhman.github.io/uwal-webgpu-fundamentals/dist/#fundamentals) | [Code](./src/fundamentals/index.js) |

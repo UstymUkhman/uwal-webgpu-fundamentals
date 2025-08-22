@@ -1,0 +1,50 @@
+html,
+body {
+  height: 100%;
+  margin: 0px;
+}
+
+canvas {
+  display: block;
+  height: 100%;
+  width: 100%;
+}
+
+button {
+  transition: opacity 0.2s, color 0.2s;
+  box-shadow: 0 0 12px -8px black;
+  background-color: white;
+  font-family: monospace;
+
+  border-radius: 50%;
+  position: absolute;
+  user-select: none;
+  font-weight: 800;
+
+  font-size: 20px;
+  cursor: pointer;
+  color: #005a9c;
+  border: none;
+
+  padding: 0px;
+  height: 50px;
+  width: 50px;
+
+  &#code {
+    letter-spacing: -2px;
+    margin-bottom: 2.5vw;
+    margin-right: 2.5vw;
+  
+    bottom: 0px;
+    right: 0px;
+  }
+
+  &:hover {
+    color: #0093ff;
+  }
+
+  &.hidden {
+    pointer-events: none;
+    opacity: 0;
+  }
+}

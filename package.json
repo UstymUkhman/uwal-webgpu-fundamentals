@@ -14,6 +14,6 @@
     "wgpu-matrix": "^3.4.0"
   },
   "dependencies": {
-    "uwal": "^0.1.0"
+    "uwal": "^0.1.1"
   }
 }

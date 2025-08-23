@@ -49,3 +49,16 @@ bun run preview # Preview production build
 | [Bind Group Layouts](https://webgpufundamentals.org/webgpu/lessons/webgpu-bind-group-layouts.html) | [Preview](https://ustymukhman.github.io/uwal-webgpu-fundamentals/dist/#bind-group-layouts) | [Code](./src/bind-group-layouts/index.js) |
 | [Timing Performance](https://webgpufundamentals.org/webgpu/lessons/webgpu-timing.html) | [Preview](https://ustymukhman.github.io/uwal-webgpu-fundamentals/dist/#timing-performance) | [Code](./src/timing-performance/index.js) |
 | [Compatibility Mode](https://webgpufundamentals.org/webgpu/lessons/webgpu-compatibility-mode.html) | Preview | Code |
+| _3D Math_ |
+| [Translation](https://webgpufundamentals.org/webgpu/lessons/webgpu-translation.html) | [Preview](https://ustymukhman.github.io/uwal-webgpu-fundamentals/dist/#translation) | [Code](./src/translation/index.js) |
+| [Rotation](https://webgpufundamentals.org/webgpu/lessons/webgpu-rotation.html) | [Preview](https://ustymukhman.github.io/uwal-webgpu-fundamentals/dist/#rotation) | [Code](./src/rotation/index.js) |
+| [Scale](https://webgpufundamentals.org/webgpu/lessons/webgpu-scale.html) | [Preview](https://ustymukhman.github.io/uwal-webgpu-fundamentals/dist/#scale) | [Code](./src/scale/index.js) |
+| [Matrix Math](https://webgpufundamentals.org/webgpu/lessons/webgpu-matrix-math.html) | [Preview](https://ustymukhman.github.io/uwal-webgpu-fundamentals/dist/#matrix-math) | [Code](./src/matrix-math/index.js) |
+| [Adding in Projection](https://webgpufundamentals.org/webgpu/lessons/webgpu-matrix-math.html#adding-in-projection) | [Preview](https://ustymukhman.github.io/uwal-webgpu-fundamentals/dist/#adding-projection) | [Code](./src/adding-projection/index.js) |
+| [Orthographic Projection](https://webgpufundamentals.org/webgpu/lessons/webgpu-orthographic-projection.html) | [Preview](https://ustymukhman.github.io/uwal-webgpu-fundamentals/dist/#orthographic-projection) | [Code](./src/orthographic-projection/index.js) |
+| [Perspective Projection](https://webgpufundamentals.org/webgpu/lessons/webgpu-perspective-projection.html) | [Preview](https://ustymukhman.github.io/uwal-webgpu-fundamentals/dist/#perspective-projection) | [Code](./src/perspective-projection/index.js) |
+| [Cameras](https://webgpufundamentals.org/webgpu/lessons/webgpu-cameras.html) | [Preview](https://ustymukhman.github.io/uwal-webgpu-fundamentals/dist/#cameras) | [Code](./src/cameras/index.js) |
+| [Matrix Stacks](https://webgpufundamentals.org/webgpu/lessons/webgpu-matrix-stacks.html) | [Preview](https://ustymukhman.github.io/uwal-webgpu-fundamentals/dist/#matrix-stacks) | [Code](./src/matrix-stacks/index.js) |
+| [Recursive Tree](https://webgpufundamentals.org/webgpu/lessons/webgpu-matrix-stacks.html#a-recursive-tree) | [Preview](https://ustymukhman.github.io/uwal-webgpu-fundamentals/dist/#recursive-tree) | [Code](./src/recursive-tree/index.js) |
+| [Scene Graphs](https://webgpufundamentals.org/webgpu/lessons/webgpu-scene-graphs.html) | [Preview](https://ustymukhman.github.io/uwal-webgpu-fundamentals/dist/#scene-graphs) | [Code](./src/scene-graphs/index.js) |
+| [Making a Hand](https://webgpufundamentals.org/webgpu/lessons/webgpu-scene-graphs.html#a-hand) | [Preview](https://ustymukhman.github.io/uwal-webgpu-fundamentals/dist/#making-hand) | [Code](./src/making-hand/index.js) |

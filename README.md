@@ -1,6 +1,6 @@
 # UWAL | WebGPU Fundamentals
 
-[WebGPU Fundamentals](https://webgpufundamentals.org/) lessons developed using [UWAL](https://ustymukhman.github.io/uwal/) library versions `<=0.1.0`.<br>
+[WebGPU Fundamentals](https://webgpufundamentals.org/) lessons developed using [UWAL](https://ustymukhman.github.io/uwal/) library versions `<=0.1`.<br>
 For a more up-to-date lessons and examples, feel free to check the library [repo](https://github.com/UstymUkhman/uwal).
 
 ## Download
@@ -48,7 +48,6 @@ bun run preview # Preview production build
 | [Blend Settings](https://webgpufundamentals.org/webgpu/lessons/webgpu-transparency.html#blend-settings) | [Preview](https://ustymukhman.github.io/uwal-webgpu-fundamentals/dist/#blend-settings) | [Code](./src/blend-settings/index.js) |
 | [Bind Group Layouts](https://webgpufundamentals.org/webgpu/lessons/webgpu-bind-group-layouts.html) | [Preview](https://ustymukhman.github.io/uwal-webgpu-fundamentals/dist/#bind-group-layouts) | [Code](./src/bind-group-layouts/index.js) |
 | [Timing Performance](https://webgpufundamentals.org/webgpu/lessons/webgpu-timing.html) | [Preview](https://ustymukhman.github.io/uwal-webgpu-fundamentals/dist/#timing-performance) | [Code](./src/timing-performance/index.js) |
-| [Compatibility Mode](https://webgpufundamentals.org/webgpu/lessons/webgpu-compatibility-mode.html) | Preview | Code |
 | _3D Math_ |
 | [Translation](https://webgpufundamentals.org/webgpu/lessons/webgpu-translation.html) | [Preview](https://ustymukhman.github.io/uwal-webgpu-fundamentals/dist/#translation) | [Code](./src/translation/index.js) |
 | [Rotation](https://webgpufundamentals.org/webgpu/lessons/webgpu-rotation.html) | [Preview](https://ustymukhman.github.io/uwal-webgpu-fundamentals/dist/#rotation) | [Code](./src/rotation/index.js) |

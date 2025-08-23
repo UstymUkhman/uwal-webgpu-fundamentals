@@ -43,3 +43,9 @@ bun run preview # Preview production build
 | [Storage Textures](https://webgpufundamentals.org/webgpu/lessons/webgpu-storage-textures.html) | [Preview](https://ustymukhman.github.io/uwal-webgpu-fundamentals/dist/#storage-textures) | [Code](./src/storage-textures/index.js) |
 | [Multisampling](https://webgpufundamentals.org/webgpu/lessons/webgpu-multisampling.html) | [Preview](https://ustymukhman.github.io/uwal-webgpu-fundamentals/dist/#multisampling) | [Code](./src/multisampling/index.js) |
 |   |   |   |
+| [Shader Constants](https://webgpufundamentals.org/webgpu/lessons/webgpu-constants.html) | [Preview](https://ustymukhman.github.io/uwal-webgpu-fundamentals/dist/#shader-constants) | [Code](./src/shader-constants/index.js) |
+| [Transparency and Blending](https://webgpufundamentals.org/webgpu/lessons/webgpu-transparency.html) | [Preview](https://ustymukhman.github.io/uwal-webgpu-fundamentals/dist/#transparency) | [Code](./src/transparency/index.js) |
+| [Blend Settings](https://webgpufundamentals.org/webgpu/lessons/webgpu-transparency.html#blend-settings) | [Preview](https://ustymukhman.github.io/uwal-webgpu-fundamentals/dist/#blend-settings) | [Code](./src/blend-settings/index.js) |
+| [Bind Group Layouts](https://webgpufundamentals.org/webgpu/lessons/webgpu-bind-group-layouts.html) | [Preview](https://ustymukhman.github.io/uwal-webgpu-fundamentals/dist/#bind-group-layouts) | [Code](./src/bind-group-layouts/index.js) |
+| [Timing Performance](https://webgpufundamentals.org/webgpu/lessons/webgpu-timing.html) | [Preview](https://ustymukhman.github.io/uwal-webgpu-fundamentals/dist/#timing-performance) | [Code](./src/timing-performance/index.js) |
+| [Compatibility Mode](https://webgpufundamentals.org/webgpu/lessons/webgpu-compatibility-mode.html) | Preview | Code |

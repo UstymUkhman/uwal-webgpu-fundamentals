@@ -25,3 +25,7 @@ bun run preview # Preview production build
 |:- |:- |:- |
 | _Basics_ |
 | [Fundamentals](https://webgpufundamentals.org/webgpu/lessons/webgpu-fundamentals.html) | [Preview](https://ustymukhman.github.io/uwal-webgpu-fundamentals/dist/#fundamentals) | [Code](./src/fundamentals/index.js) |
+| [Inter-stage Variables](https://webgpufundamentals.org/webgpu/lessons/webgpu-inter-stage-variables.html) | [Preview](https://ustymukhman.github.io/uwal-webgpu-fundamentals/dist/#inter-stage-variables) | [Code](./src/inter-stage-variables/index.js) |
+| [Uniforms](https://webgpufundamentals.org/webgpu/lessons/webgpu-uniforms.html) | [Preview](https://ustymukhman.github.io/uwal-webgpu-fundamentals/dist/#uniforms) | [Code](./src/uniforms/index.js) |
+| [Storage Buffers](https://webgpufundamentals.org/webgpu/lessons/webgpu-storage-buffers.html) | [Preview](https://ustymukhman.github.io/uwal-webgpu-fundamentals/dist/#storage-buffers) | [Code](./src/storage-buffers/index.js) |
+| [Vertex Buffers](https://webgpufundamentals.org/webgpu/lessons/webgpu-vertex-buffers.html) | [Preview](https://ustymukhman.github.io/uwal-webgpu-fundamentals/dist/#vertex-buffers) | [Code](./src/vertex-buffers/index.js) |

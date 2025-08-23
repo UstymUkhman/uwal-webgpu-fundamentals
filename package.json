@@ -10,7 +10,8 @@
   },
   "devDependencies": {
     "vite": "^7.1.2",
-    "vite-plugin-glsl": "^1.5.1"
+    "vite-plugin-glsl": "^1.5.1",
+    "wgpu-matrix": "^3.4.0"
   },
   "dependencies": {
     "uwal": "^0.1.0"
